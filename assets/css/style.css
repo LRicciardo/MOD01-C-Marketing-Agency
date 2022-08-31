@@ -8,37 +8,30 @@
 /* Formats the body of the webpage */
 body {
     background-color: #d9dcd6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
-
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-header nav ul {
+li {
     list-style-type: none;
-}
-
-header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -72,6 +65,10 @@ footer h2 {
     background-position: center;
 }
 
+.seo {
+    color: #d9dcd6;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -85,7 +82,8 @@ footer h2 {
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    /* margin-left: 20px; */
+    margin: 0 0 20px 20px;
 }
 
 .benefits {
@@ -95,7 +93,6 @@ footer h2 {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
@@ -151,7 +148,6 @@ footer h2 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -160,7 +156,6 @@ footer h2 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -169,7 +164,6 @@ footer h2 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
