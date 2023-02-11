@@ -1,4 +1,4 @@
-# <center><font color="blue">**MOD21-C-MERN-Book-Search-Engine**</font></center>
+# <center><font color="blue">**MOD01-C-Marketing-Agency**</font></center>
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +7,7 @@ GitHub Page: https://lricciardo.github.io/MOD01-C-Marketing-Agency/
 
 GitHub Repo: https://github.com/LRicciardo/MOD01-C-Marketing-Agency
 
-## Description<center><font color="blue">**Description**</font></center>
+## <center><font color="blue">**Description**</font></center>
 (Refactor Challenge) Horiseon Website needs to upgrade their website to include online accessibilty functions. My goal is to provide thoses HTML elements. I have also added some comments and made the CSS stylesheet more efficient and less cumbersome.
  
 ## User Story
